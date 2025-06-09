@@ -26,6 +26,7 @@
   width: 25%;
   height: 50px;
   text-align: center;
+  padding: 10px;
 
 }
 
@@ -35,6 +36,7 @@
   width: 50%;
   height: 50px;
   text-align: center;
+  padding: 10px;
 }
 
 .bg-blu {
@@ -56,7 +58,6 @@
 .container {
   display: flex;
   width: 800px;
-  border: 2px solid black;
   height: 500px;
   justify-content: center;
   align-items: center;
@@ -114,17 +115,17 @@
 .pink {
   background-color: #F08180;
   width: 40%;
-  height: 90%;
+  height: 95%;
   display: flex;
-  border: 4px dotted white;
+  border: 2px dotted white;
 }
 
 .celeste {
   background-color: #20B3AA;
   width: 15%;
-  height: 90%;
+  height: 95%;
   display: flex;
-  border: 4px dotted white;
+  border: 2px dotted white;
 }
 
 .rose {
