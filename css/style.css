@@ -58,20 +58,39 @@
   border: 2px solid black;
   height: 500px;
   justify-content: center;
+  align-items: center;
+
 
 }
 
 
 .azure {
   background-color: #1E90FF;
-  width: 75%;
-  height: ;
+  width: 70%;
+  height: 60%;
   display: flex;
+  border: 4px dotted black;
 }
 
 .salmon {
   background-color: #FFC0CA;
-  width: 25%;
-  height: ;
+  width: 30%;
+  height: 60%;
   display: flex;
+  border: 4px dotted black;
+}
+
+.bg-white {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+
+}
+
+.bg-gray {
+  background-color: #CCCCCC;
+  display: flex;
+  justify-content: center;
+
+
 }
