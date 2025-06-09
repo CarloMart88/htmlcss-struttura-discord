@@ -44,7 +44,7 @@
   align-items: center;
 }
 
-.box-small {
+.square-small {
   border: 3px dotted black;
   background-color: #EF82ED;
   width: 600px;
@@ -53,5 +53,25 @@
 }
 
 .container {
+  display: flex;
+  width: 800px;
+  border: 2px solid black;
+  height: 500px;
+  justify-content: center;
+
+}
+
+
+.azure {
+  background-color: #1E90FF;
+  width: 75%;
+  height: ;
+  display: flex;
+}
+
+.salmon {
+  background-color: #FFC0CA;
+  width: 25%;
+  height: ;
   display: flex;
 }
