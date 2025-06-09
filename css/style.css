@@ -103,3 +103,26 @@
   border: 3px dotted black;
 
 }
+
+.bg-black {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+
+}
+
+.pink {
+  background-color: #F08180;
+  width: 40%;
+  height: 90%;
+  display: flex;
+  border: 4px dotted white;
+}
+
+.celeste {
+  background-color: #20B3AA;
+  width: 15%;
+  height: 90%;
+  display: flex;
+  border: 4px dotted white;
+}
