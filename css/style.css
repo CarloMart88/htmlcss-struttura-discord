@@ -24,7 +24,7 @@
   border: 3px dotted black;
   width: 25%;
   height: 50px;
-  text-align: space-between;
+  text-align: center;
 
 }
 
@@ -34,4 +34,17 @@
   width: 50%;
   height: 50px;
   text-align: center;
+}
+
+.bg-blu {
+  background-color: #00018B;
+  height: 300px;
+  display: flex
+}
+
+.box .small {
+  border: 3px dotted #EF82ED;
+  background-color: #EF82ED;
+  width: 150px;
+  height: 150px;
 }
