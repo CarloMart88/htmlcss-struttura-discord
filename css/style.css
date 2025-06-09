@@ -3,3 +3,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.menu {
+  padding: 20px 0;
+  width: 800px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.bg-lightblu {
+  display: flex;
+  background-color: #ADD8E7;
+  justify-content: center;
+}
+
+.orange {
+  background-color: #DAA61C;
+  border: 3px dotted black;
+  width: 25%;
+  height: 50px;
+  text-align: space-between;
+
+}
+
+.orange1 {
+  background-color: #DAA61C;
+  border: 3px dotted black;
+  width: 50%;
+  height: 50px;
+  text-align: center;
+}
