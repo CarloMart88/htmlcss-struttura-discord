@@ -39,12 +39,15 @@
 .bg-blu {
   background-color: #00018B;
   height: 300px;
-  display: flex
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.box .small {
-  border: 3px dotted #EF82ED;
+.box-small {
+  border: 3px dotted black;
   background-color: #EF82ED;
-  width: 150px;
-  height: 150px;
+  width: 600px;
+  height: 200px;
+
 }
