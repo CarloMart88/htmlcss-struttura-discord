@@ -126,3 +126,17 @@
   display: flex;
   border: 4px dotted white;
 }
+
+.rose {
+  background-color: #FBB6C0;
+  border: 3px dotted black;
+  width: 10%;
+  height: 30px;
+  text-align: center;
+
+}
+
+.bg-turquoise {
+  margin-top: 20px;
+  background-color: #7FFFD4;
+}
